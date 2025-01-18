@@ -29,8 +29,8 @@
 
 
 
-# 🔝 Top Repo
-![](https://github-contributor-stats.vercel.app/api?username=ELAkahira&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!--# 🔝 Top Repo
+![](https://github-contributor-stats.vercel.app/api?username=ELAkahira&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ELAkahira&icon=9&color=1)](https://visitcount.itsvg.in)
