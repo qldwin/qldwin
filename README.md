@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-🔭 Etudiant en Bachelor CDA<br>🌱 Apprentissage développeur full-stack<br><br>
+🔭 Etudiant en Développement Informatique<br>🌱 Apprentissage développeur full-stack<br><br>
 
 ## 🌐 Réseaux sociaux:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldwin-weber) 
